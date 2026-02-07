@@ -281,11 +281,10 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
     PREMIUM_TEXT = """<blockquote>🎖️ <b>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs</b></blockquote>
 
 
-◉ 07 ᴅᴀʏꜱ   - 15 ₹  / 10 ꜱᴛᴀʀ
-◉ 1  Months - 50 ₹  / 20 ꜱᴛᴀʀ
-◉ 2  Months - 90 ₹  / 40 ꜱᴛᴀʀ
-◉ 3  Months - 140 ₹  / 55 ꜱᴛᴀʀ
-◉ 1  Year   - 500 ₹  / 75 ꜱᴛᴀʀ
+: 1 MONTHS - 50 ₹
+: 2 MONTHS - 90 ₹
+: 3 MONTHS - 140 ₹
+: 1 YEARS - 300 ₹
 
 •─────•─────────•─────•
 
@@ -349,11 +348,10 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 
 <blockquote>🎖️ <b>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴꜱ</b></blockquote>
 
-◉ 07 ᴅᴀʏꜱ - 10 ₹  
-◉ 15 ᴅᴀʏꜱ - 20 ₹  
-◉ 30 ᴅᴀʏꜱ - 40 ₹  
-◉ 45 ᴅᴀʏꜱ - 55 ₹  
-◉ 60 ᴅᴀʏꜱ - 75 ₹  
+: 1 MONTHS - 50 ₹
+: 2 MONTHS - 90 ₹
+: 3 MONTHS - 140 ₹
+: 1 YEARS - 300 ₹  
 
 •─────•─────────•─────•
 
